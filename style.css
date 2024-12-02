@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#navbar{
+    background-color: black;
+    display: flex;
+  }
+
+#offer{
+    background-color: black;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.offer-text{
+    
+    color:white;
+    text-decoration: none;
+    font-weight: 350;
+}
+
+#img1{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 100px;
+}
+
+
+.text{
+    color:white;
+    font-weight: 350;
+    /* padding: 7px; */
+    text-decoration: none;
+    padding-left: 80px;
+    margin-top:65px;
+}
+
+#nav-btn{
+    height: 30px;
+    width: 190px;
+    border-radius: 12px;   
+}
+
+#icon-1{
+    margin-left: auto;
+    margin-top: 62px;
+}
+
+#card{
+ width:1430;
+
+}
+
